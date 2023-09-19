@@ -1,0 +1,13 @@
+{
+    "extension": {
+        "sass-compiler": {
+            "files": {
+                "watch": [
+                    "assets/sass/*.sass"
+                ]
+                "source": "assets/sass/finance.sass",
+                "output": "assets/css/finance.css"
+            }
+        }
+    }
+}
